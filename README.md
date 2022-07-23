@@ -1,6 +1,6 @@
-# Desafio de Projeto sobre Git/GitHub da DIO :computer: 
+# :computer: Desafio de Projeto sobre Git/GitHub da DIO
 Repositório criado para o Desafio de Projeto.
 
 ## Links úteis
-[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
-[Lista de emojis](https://gist.github.com/rxaviers/7360908)
+:small_blue_diamond: [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
+:small_blue_diamond: [Lista de emojis](https://gist.github.com/rxaviers/7360908)
